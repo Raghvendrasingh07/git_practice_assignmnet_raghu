@@ -6,7 +6,7 @@ function checkpal(){
   
  for(var i=0; i<str.length; i++){
      
-     bag1=bag1+str[I];
+     bag1=bag1+str[i];
  }
  for(var j=str.length-1; j>=0; j--){
      
